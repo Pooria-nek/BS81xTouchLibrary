@@ -1,0 +1,16 @@
+# Class name
+BS81xTouchLibrary	KEYWORD1
+
+# Functions
+begin	KEYWORD2
+isTouched	KEYWORD2
+getAllKeyStates	KEYWORD2
+setSensitivity	KEYWORD2
+setWakeupFunction	KEYWORD2
+enableAutoCalibration	KEYWORD2
+setMaxKeyOnDuration	KEYWORD2
+attachInterruptHandler	KEYWORD2
+
+# Data types
+uint8_t	DATATYPE
+uint16_t	DATATYPE
